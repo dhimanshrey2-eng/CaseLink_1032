@@ -1,6 +1,7 @@
 # CaseLink_1032
 Case Link is an AI-powered investigation assistant that helps law enforcement analyze images, videos, text evidence in one place. It connects related cases, identifies patterns, organizes evidence, and generates actionable insights, enabling faster, smarter, and more efficient criminal investigations while supporting informed decision-making.
 
+  
 CaseLink – AI-Powered Preliminary Forensic Documentation Assistant
 
 Every minute matters at a crime scene, yet investigators often face challenges such as manual documentation, scattered information, and limited access to expert guidance in the early stages of an investigation. Even small oversights can affect the quality of evidence and delay the pursuit of justice.
