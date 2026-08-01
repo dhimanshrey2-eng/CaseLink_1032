@@ -1,6 +1,16 @@
 # CaseLink_1032
 Case Link is an AI-powered investigation assistant that helps law enforcement analyze images, videos, text evidence in one place. It connects related cases, identifies patterns, organizes evidence, and generates actionable insights, enabling faster, smarter, and more efficient criminal investigations while supporting informed decision-making.
 
+CaseLink – AI-Powered Preliminary Forensic Documentation Assistant
+
+Every minute matters at a crime scene, yet investigators often face challenges such as manual documentation, scattered information, and limited access to expert guidance in the early stages of an investigation. Even small oversights can affect the quality of evidence and delay the pursuit of justice.
+
+CaseLink is designed to support first responders by making preliminary forensic documentation faster, more organized, and more reliable. The app combines image analysis, intelligent documentation, evidence logging, and case summarization into a single, easy-to-use platform. Users can upload crime scene images, receive AI-assisted observations, organize evidence, generate structured reports, and access investigative guidance—all from one application.
+
+It is important to note that CaseLink does not replace forensic experts or investigators. Instead, it acts as a digital assistant that reduces routine workload, minimizes documentation errors, and helps preserve crucial information during the initial stages of an investigation.
+
+By combining technology with practical investigative workflows, CaseLink aims to improve the efficiency, consistency, and accessibility of preliminary forensic documentation—helping investigators spend less time on paperwork and more time solving cases.
+
 
 Android Studio
 
@@ -40,12 +50,3 @@ Google Flow was used to create the AI-generated cinematic opening sequence featu
 
 
 
-CaseLink – AI-Powered Preliminary Forensic Documentation Assistant
-
-Every minute matters at a crime scene, yet investigators often face challenges such as manual documentation, scattered information, and limited access to expert guidance in the early stages of an investigation. Even small oversights can affect the quality of evidence and delay the pursuit of justice.
-
-CaseLink is designed to support first responders by making preliminary forensic documentation faster, more organized, and more reliable. The app combines image analysis, intelligent documentation, evidence logging, and case summarization into a single, easy-to-use platform. Users can upload crime scene images, receive AI-assisted observations, organize evidence, generate structured reports, and access investigative guidance—all from one application.
-
-It is important to note that CaseLink does not replace forensic experts or investigators. Instead, it acts as a digital assistant that reduces routine workload, minimizes documentation errors, and helps preserve crucial information during the initial stages of an investigation.
-
-By combining technology with practical investigative workflows, CaseLink aims to improve the efficiency, consistency, and accessibility of preliminary forensic documentation—helping investigators spend less time on paperwork and more time solving cases.
